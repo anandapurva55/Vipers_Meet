@@ -1,5 +1,6 @@
-# Vipers_Meet
-This is the same old snake game programmed in PYTHON that 90's kids used to play on their father's phone:)
+# Vipers Meet
+This is the same old snake game programmed that 90's kids used to play on their father's phone:)
+We used Pygame module of PYTHON to program it.
 
 Steps to run this game:
 
