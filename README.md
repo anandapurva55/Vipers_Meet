@@ -7,4 +7,4 @@ Export an exe file
 Reference :- https://pythonprogramming.net/converting-pygame-executable-cx_freeze/
 or,
 
-Paste this code on any Python Ide and run it.
+Paste the codes on any Python Ide and run it.
