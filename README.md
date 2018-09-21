@@ -1,6 +1,6 @@
 # Vipers Meet
 This is the same old snake game programmed that 90's kids used to play on their father's phone:)
-We used Pygame module of PYTHON to program it.
+We programmed this by using Pygame library of PYTHON.
 
 Steps to run this game:
 
